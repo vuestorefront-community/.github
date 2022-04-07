@@ -75,6 +75,7 @@
 # Supported platforms
 
 
+
 <p align="center" valign="middle">
     <a title="commercetools" target="_blank" href="https://docs.vuestorefront.io/v2/commercetools/">
         <img alt="commercetools" width="75" src="https://user-images.githubusercontent.com/1626923/156658926-532f44bd-f178-4bd9-ae72-1ca7d9984f57.png" />
@@ -105,8 +106,8 @@
         <img alt="BigCommerce" width="75" src="https://user-images.githubusercontent.com/1626923/156659123-12a987f5-a590-4971-810e-7594defc48f5.png" />
     </a>
     &nbsp;&nbsp;
-    <a title="Spryker" target="_blank" href="https://github.com/vuestorefront/spryker">
-        <img alt="Spryker" width="75" src="https://user-images.githubusercontent.com/1626923/156659149-63324469-8727-4adb-a651-95370fecf23f.png" />
+    <a title="kiboCommerce" target="_blank" href="https://github.com/vuestorefront-community/kibocommerce">
+        <img alt="kiboCommerce" width="75" src="https://user-images.githubusercontent.com/1626923/156659127-68c1442a-de03-46ab-863b-8dce2b5857d5.png" />
     </a>
     &nbsp;&nbsp;
     <a title="Vendure" target="_blank" href="https://github.com/vuestorefront/vendure">
@@ -125,10 +126,6 @@
         <img alt="nopCommerce" width="75" src="https://user-images.githubusercontent.com/1626923/156659133-d047ea68-ec32-4ef1-aa7d-dc5ab88f5230.png" />
     </a>
 <br />
-    &nbsp;&nbsp;
-    <a title="kiboCommerce" target="_blank" href="https://github.com/vuestorefront-community/kibocommerce">
-        <img alt="kiboCommerce" width="75" src="https://user-images.githubusercontent.com/1626923/156659127-68c1442a-de03-46ab-863b-8dce2b5857d5.png" />
-    </a>
   &nbsp;&nbsp;
     <a title="Sylius" target="_blank" href="https://github.com/vuestorefront-community/sylius">
         <img alt="Sylius" width="75" src="https://user-images.githubusercontent.com/1626923/161141058-8f6a4a8e-2c6f-402e-b19b-892c7acec77f.png" />
