@@ -33,6 +33,7 @@ Our most popular community maintained integrations:
 - [Odoo](https://github.com/vuestorefront-community/odoo) from OdooGap
 - [Spree](https://github.com/vuestorefront-community/spree) from UpsideLabs
 - [Shopify](https://github.com/vuestorefront/shopify) from Aureate Labs & The Stable
+
 Check out the full list of community integrations [here](https://github.com/orgs/vuestorefront-community/repositories).
 
 ## **Creating a new integration 🛠**
