@@ -30,7 +30,7 @@ Our most popular community maintained integrations:
 
 - [PrestaShop](https://github.com/vuestorefront-community/prestashop) from Binshops
 - [Sylius](https://github.com/vuestorefront-community/sylius) from BitBag
-- [Odoo](https://github.com/vuestorefront-community/odoo)
+- [Odoo](https://github.com/vuestorefront-community/odoo) from OdooGap
 
 Check out the full list of community integrations [here](https://github.com/orgs/vuestorefront-community/repositories).
 
