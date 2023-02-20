@@ -11,8 +11,9 @@ Before we jump into the requirements, we want to highlight that not all requirem
 By committing to the standards and becoming our Open Source partner your company is becoming an official Vue Storefront Integration Maintainer. This comes with perks that will bring more recognition to your company and ensure good communication between you and us:
 
 - Your company will be listed as Open Source partner on our website
+- Your company logo will be visible at the top of integration GitHub repository and documentation to ensure everyone knows you're a maintainer
 - The integration will be listed on our website and documentation
-- On the first page of documentation and GitHub repository
+- You will be invited to the monthly VSF contributors meeting with VSF co-founder Filip Rakowski and be the first one to know about upcoming changes and have influence on them as a stakeholder.
 
 On top of this, Vue Storefront commits to helping with:
 
