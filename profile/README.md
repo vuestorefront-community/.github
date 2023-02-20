@@ -29,7 +29,7 @@ To get started, pick one of the integrations from the list below and follow the 
 Our most popular community maintained integrations:
 
 - [PrestaShop](https://github.com/vuestorefront-community/prestashop) from Binshops
-- [Sylius](https://github.com/vuestorefront-community/sylius)
+- [Sylius](https://github.com/vuestorefront-community/sylius) from BitBag
 - [Odoo](https://github.com/vuestorefront-community/odoo)
 
 Check out the full list of community integrations [here](https://github.com/orgs/vuestorefront-community/repositories).
