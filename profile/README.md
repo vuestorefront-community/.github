@@ -40,7 +40,7 @@ Check out the full list of community integrations [here](https://github.com/org
 
 We are very happy that you are interested in creating a Vue Storefront integration with us. We are committed to building a rich and diverse ecosystem, and your success in being part of it is also our success.
 
-Check our [Open Source Integration Guide](./OS_INTEGRATION_GUIDE.md) to learn the details of creating a new integration.
+Check our [Open Source Integration Guide](https://github.com/vuestorefront-community/.github/blob/main/profile/OS_INTEGRATION_GUIDE.md) to learn the details of creating a new integration.
 
 ## **Contributing 🤝**
 
